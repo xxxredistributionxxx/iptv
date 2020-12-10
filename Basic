@@ -43,8 +43,6 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6709
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/33497
 #EXTINF:-1,Foro TV
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6713
-#EXTINF:-1,Fox
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6724
 #EXTINF:-1,Fox Action
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6714
 #EXTINF:-1,Fox Classics
@@ -71,6 +69,8 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6728
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6687
 #EXTINF:-1,Lifetime
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6732
+#EXTINF:-1,MTV
+http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6724
 #EXTINF:-1,MTV Hits
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6756
 #EXTINF:-1,Multimedios
@@ -95,18 +95,10 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6742
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6758
 #EXTINF:-1,TeleFormula
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6745
-#EXTINF:-1,Azteca Noticias
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8743
-#EXTINF:-1,Azteca Honduras
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8744
 #EXTINF:-1,Telemundo
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/16982
 #EXTINF:-1,Warner Bross
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/15628
-#EXTINF:-1,LA Sexta
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/667
-#EXTINF:-1,La Liga TV BAR
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/669971
 #EXTINF:-1,Movistar La Liga
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/16274
 #EXTINF:-1,Movistar Vamos Bar
@@ -115,7 +107,3 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/683141
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/620685
 #EXTINF:-1,Barca TV ES
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7250
-#EXTINF:-1,Mega
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/8760
-#EXTINF:-1,EN | FIFA | Brazil Vs Mexico
-http://mytv.fun:8080/movie/xvoek63avn/1bdn1scc4t/40382.mp4

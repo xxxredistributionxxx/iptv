@@ -34,8 +34,6 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6696
 #EXTINF:-1,Disney Channel
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6700
 #EXTINF:-1,Distrito Comedia
-#EXTINF:-1 tvg-id="VMeTelevision.us" tvg-name="MEX: TELEVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Antiguo_logo_de_Canal_Once_%28ONCE_TV_MEXICO%29.png" group-title="SPANISH",MEX: TELEVISA
-http://qqtv.nl:8080/live/rohin/rohin/20052.m3u8
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6705
 #EXTINF:-1,ESPN
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6710
@@ -109,3 +107,5 @@ http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/683141
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/620685
 #EXTINF:-1,Barca TV ES
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/7250
+#EXTINF:-1 checar
+http://qqtv.nl:8080/live/rohin/rohin/20052.m3u8

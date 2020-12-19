@@ -1,249 +1,235 @@
 #EXTM3U
----TV ABIERTA---
-EXTINF: -1,AZTECA CINEMA
-http://qqtv.nl:8080/live/rohin/rohin/20026.m3u8
-EXTINF: -1,AZTECA CLIC
-http://qqtv.nl:8080/live/rohin/rohin/20404.m3u8
-EXTINF: -1,AZTECA CORAZÓN
-http://qqtv.nl:8080/live/rohin/rohin/20049.m3u8
-EXTINF: -1,AZTECA MUNDO
-http://qqtv.nl:8080/live/rohin/rohin/19999.m3u8
-EXTINF: -1,AZTECA UNO
-http://qqtv.nl:8080/live/rohin/rohin/20255.m3u8
-EXTINF: -1,AZTECA 7
-http://qqtv.nl:8080/live/rohin/rohin/20168.m3u8
-EXTINF: -1,CANAL DE LAS ESTRELLAS
-http://qqtv.nl:8080/live/rohin/rohin/20295.m3u8
-EXTINF: -1,CANAL JUDICIAL
-http://qqtv.nl:8080/live/rohin/rohin/20413.m3u8
-EXTINF: -1,CANAL ONCE
-http://qqtv.nl:8080/live/rohin/rohin/20054.m3u8
-#EXTINF:-1,Canal 5 HD
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6685
-EXTINF: -1,CANAL 26
-http://qqtv.nl:8080/live/rohin/rohin/20107.m3u8
-EXTINF: -1,CNN
-http://qqtv.nl:8080/live/rohin/rohin/20294.m3u8
-#EXTINF:-1,Foro TV
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6713
-EXTINF: -1,MULTIMEDIOS
-http://qqtv.nl:8080/live/rohin/rohin/20432.m3u8
-#EXTINF:-1,Proyecto 40
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6738
-#EXTINF:-1,TeleFormula
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6745
-EXTINF: -1,TELENOVELAS
-http://qqtv.nl:8080/live/rohin/rohin/20169.m3u8
-EXTINF: -1,UNICABLE
-http://qqtv.nl:8080/live/rohin/rohin/20088.m3u8
----KIDS---
-EXTINF: -1,BABY TV
-http://qqtv.nl:8080/live/rohin/rohin/20110.m3u8
-EXTINF: -1,BOOMERANG
-http://qqtv.nl:8080/live/rohin/rohin/20299.m3u8
-EXTINF: -1,CARTOON NETWORK
-http://qqtv.nl:8080/live/rohin/rohin/20292.m3u8
-EXTINF: -1,DISCOVERY KIDS
-http://qqtv.nl:8080/live/rohin/rohin/20149.m3u8
-EXTINF: -1,DISNEY CHANNEL
-http://qqtv.nl:8080/live/rohin/rohin/20224.m3u8
-EXTINF: -1,DISNEY JR
-http://qqtv.nl:8080/live/rohin/rohin/20274.m3u8
-EXTINF: -1,DISNEY XD
-http://qqtv.nl:8080/live/rohin/rohin/20233.m3u8
-EXTINF: -1,NAT GEO KIDS
-http://qqtv.nl:8080/live/rohin/rohin/20152.m3u8
-EXTINF: -1,NICK JR
-http://qqtv.nl:8080/live/rohin/rohin/20307.m3u8
-EXTINF: -1,NICKTOONS
-http://qqtv.nl:8080/live/rohin/rohin/20025.m3u8
-EXTINF: -1,NICK
-http://qqtv.nl:8080/live/rohin/rohin/20306.m3u8
-EXTINF: -1,NICK 2
-http://qqtv.nl:8080/live/rohin/rohin/20416.m3u8
----ENTRETENIMIENTO---
-EXTINF: -1,COMEDY CENTRAL
-http://qqtv.nl:8080/live/rohin/rohin/20167.m3u8
-EXTINF: -1,DISTRITO COMEDIA
-http://qqtv.nl:8080/live/rohin/rohin/19997.m3u8
-EXTINF: -1,HTV
-http://qqtv.nl:8080/live/rohin/rohin/20435.m3u8
-EXTINF: -1,MTV
-http://qqtv.nl:8080/live/rohin/rohin/20417.m3u8
-EXTINF: -1,TELEHIT
-http://qqtv.nl:8080/live/rohin/rohin/20090.m3u8
-EXTINF: -1,TRUE TV
-http://qqtv.nl:8080/live/rohin/rohin/20239.m3u8
-EXTINF: -1,VH1
-http://qqtv.nl:8080/live/rohin/rohin/20424.m3u8
-EXTINF: -1,VH1 CLASSIC
-http://qqtv.nl:8080/live/rohin/rohin/20155.m3u8
----SERIES---
 EXTINF: -1,A&E
-http://qqtv.nl:8080/live/rohin/rohin/20302.m3u8
-EXTINF: -1,AXN
-http://qqtv.nl:8080/live/rohin/rohin/20298.m3u8
-EXTINF: -1,E! ENTRETAIMENT
-http://qqtv.nl:8080/live/rohin/rohin/20272.m3u8
-EXTINF: -1,FX
-http://qqtv.nl:8080/live/rohin/rohin/20264.m3u8
-EXTINF: -1,LIFETIME
-http://qqtv.nl:8080/live/rohin/rohin/20403.m3u8
-EXTINF: -1,TCM
-http://qqtv.nl:8080/live/rohin/rohin/20252.m3u8
-EXTINF: -1,TLC
-http://qqtv.nl:8080/live/rohin/rohin/20426.m3u8
-EXTINF: -1,TNT SERIES
-http://qqtv.nl:8080/live/rohin/rohin/20245.m3u8
-EXTINF: -1,SONY
-http://qqtv.nl:8080/live/rohin/rohin/20248.m3u8
-EXTINF: -1,STUDIO UNIVERSAL
-http://qqtv.nl:8080/live/rohin/rohin/20429.m3u8
-EXTINF: -1,SYFY
-http://qqtv.nl:8080/live/rohin/rohin/20250.m3u8
-EXTINF: -1,WARNER
-http://qqtv.nl:8080/live/rohin/rohin/20232.m3u8
----DOCUMENTAL---
+http://qqtv.nl:8080/live/castro/castro/20302.m3u8
+EXTINF: -1,AMC
+http://qqtv.nl:8080/live/castro/castro/20303.m3u8
 EXTINF: -1,Animal Planet
-http://qqtv.nl:8080/live/rohin/rohin/20296.m3u8
-EXTINF: -1,DISCOVERY CHANNEL
-http://qqtv.nl:8080/live/rohin/rohin/20226.m3u8
-EXTINF: -1,DISCOVERY CIVILIZATION
-http://qqtv.nl:8080/live/rohin/rohin/20278.m3u8
-EXTINF: -1,DISCOVERY ID
-http://qqtv.nl:8080/live/rohin/rohin/20243.m3u8
-EXTINF: -1,DISCOVERY H&H
-http://qqtv.nl:8080/live/rohin/rohin/20280.m3u8
-EXTINF: -1,DISCOVERY TURBO
-http://qqtv.nl:8080/live/rohin/rohin/20275.m3u8
-EXTINF: -1,DISCOVERY SCIENCE
-http://qqtv.nl:8080/live/rohin/rohin/20078.m3u8
-EXTINF: -1,HISTORY CHANNEL
-http://qqtv.nl:8080/live/rohin/rohin/20236.m3u8
-EXTINF: -1,H2
-http://qqtv.nl:8080/live/rohin/rohin/20258.m3u8
-EXTINF: -1,NAT GEO
-http://qqtv.nl:8080/live/rohin/rohin/20247.m3u8
-EXTINF: -1,NAT GEO WILD
-http://qqtv.nl:8080/live/rohin/rohin/20246.m3u8
----PELICULAS---
+http://qqtv.nl:8080/live/castro/castro/20296.m3u8
+EXTINF: -1,AXN
+http://qqtv.nl:8080/live/castro/castro/20298.m3u8
+EXTINF: -1,AZTECA MUNDO
+http://qqtv.nl:8080/live/castro/castro/19999.m3u8
+EXTINF: -1,AZTECA CINEMA
+http://qqtv.nl:8080/live/castro/castro/20026.m3u8
+EXTINF: -1,AZTECA CLIC
+http://qqtv.nl:8080/live/castro/castro/20404.m3u8
+EXTINF: -1,AZTECA CORAZÓN
+http://qqtv.nl:8080/live/castro/castro/20049.m3u8
+EXTINF: -1,AZTECA UNO
+http://qqtv.nl:8080/live/castro/castro/20255.m3u8
+EXTINF: -1,AZTECA 7
+http://qqtv.nl:8080/live/castro/castro/20168.m3u8
+EXTINF: -1,BABY TV
+http://qqtv.nl:8080/live/castro/castro/20110.m3u8
+EXTINF: -1,BOOMERANG
+http://qqtv.nl:8080/live/castro/castro/20299.m3u8
+EXTINF: -1,CANAL DE LAS ESTRELLAS
+http://qqtv.nl:8080/live/castro/castro/20295.m3u8
+EXTINF: -1,CANAL JUDICIAL
+http://qqtv.nl:8080/live/castro/castro/20413.m3u8
+EXTINF: -1,CANAL ONCE
+http://qqtv.nl:8080/live/castro/castro/20054.m3u8
+EXTINF: -1,CANAL 26
+http://qqtv.nl:8080/live/castro/castro/20107.m3u8
+EXTINF: -1,CARTOON NETWORK
+http://qqtv.nl:8080/live/castro/castro/20292.m3u8
 EXTINF: -1,CINECANAL
-http://qqtv.nl:8080/live/rohin/rohin/20297.m3u8
+http://qqtv.nl:8080/live/castro/castro/20297.m3u8
 EXTINF: -1,CINE LATINO
-http://qqtv.nl:8080/live/rohin/rohin/20156.m3u8
+http://qqtv.nl:8080/live/castro/castro/20156.m3u8
 EXTINF: -1,CINEMAX
-http://qqtv.nl:8080/live/rohin/rohin/20293.m3u8
-EXTINF: -1,DE PELICULA
-http://qqtv.nl:8080/live/rohin/rohin/20273.m3u8
-EXTINF: -1,GOLDEN
-http://qqtv.nl:8080/live/rohin/rohin/20290.m3u8
-EXTINF: -1,GOLDEN EDGE
-http://qqtv.nl:8080/live/rohin/rohin/20165.m3u8
-EXTINF: -1,GOLDEN PLUS
-http://qqtv.nl:8080/live/rohin/rohin/20420.m3u8
-EXTINF: -1,INDIEPLEX
-http://qqtv.nl:8080/live/rohin/rohin/20350.m3u8
+http://qqtv.nl:8080/live/castro/castro/20293.m3u8
 EXTINF: -1,MOVIEPLEX
-http://qqtv.nl:8080/live/rohin/rohin/20347.m3u8
-EXTINF: -1,OTHERMAX
-http://qqtv.nl:8080/live/rohin/rohin/20350.m3u8
-EXTINF: -1,PARAMOUNT CHANNEL
-http://qqtv.nl:8080/live/rohin/rohin/20238.m3u8
-EXTINF: -1,SPACE
-http://qqtv.nl:8080/live/rohin/rohin/20240.m3u8
-EXTINF: -1,TBS
-http://qqtv.nl:8080/live/rohin/rohin/20001.m3u8
-EXTINF: -1,TNT
-http://qqtv.nl:8080/live/rohin/rohin/20237.m3u8
-EXTINF: -1,TNT CENTRO
-http://qqtv.nl:8080/live/rohin/rohin/20040.m3u8
-EXTINF: -1,TNT ORIGINAL
-http://qqtv.nl:8080/live/rohin/rohin/20150.m3u8
-EXTINF: -1,UNIVERSAL CHANNEL
-http://qqtv.nl:8080/live/rohin/rohin/20242.m3u8
----DEPORTES---
-EXTINF: -1,BEIN
-http://qqtv.nl:8080/live/rohin/rohin/88420.m3u8
-EXTINF: -1,BEIN Ñ
-http://qqtv.nl:8080/live/rohin/rohin/88419.m3u8
-EXTINF: -1,ESPN
-http://qqtv.nl:8080/live/rohin/rohin/20269.m3u8
-EXTINF: -1,ESPN DEPORTES
-http://qqtv.nl:8080/live/rohin/rohin/7913.m3u8
-EXTINF: -1,ESPN PLUS
-http://qqtv.nl:8080/live/rohin/rohin/20062.m3u8
-EXTINF: -1,ESPN 2
-http://qqtv.nl:8080/live/rohin/rohin/20268.m3u8
-EXTINF: -1,ESPN 3
-http://qqtv.nl:8080/live/rohin/rohin/20267.m3u8
-EXTINF: -1,FOX SPORTS
-http://qqtv.nl:8080/live/rohin/rohin/20095.m3u8
-EXTINF: -1,FOX DEPORTES
-http://qqtv.nl:8080/live/rohin/rohin/20116.m3u8
-EXTINF: -1,FOX SPORTS 2
-http://qqtv.nl:8080/live/rohin/rohin/20097.m3u8
-EXTINF: -1,FOX SPORTS 3
-http://qqtv.nl:8080/live/rohin/rohin/20096.m3u8
----ESPECIALES---
-#EXTINF:-1,Fox Action
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6714
-#EXTINF:-1,Fox Cinema
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6715
-#EXTINF:-1,Fox Classics
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6716
-#EXTINF:-1,Fox Life
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6719
-#EXTINF:-1,Fox Movies
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6720
-#EXTINF:-1,Fox Series
-http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6718
-EXTINF: -1,HBO
-http://qqtv.nl:8080/live/rohin/rohin/20083.m3u8
-EXTINF: -1,HBO FAMILY
-http://qqtv.nl:8080/live/rohin/rohin/20355.m3u8
-EXTINF: -1,HBO PLUS
-http://qqtv.nl:8080/live/rohin/rohin/20354.m3u8
-EXTINF: -1,HBO POP
-http://qqtv.nl:8080/live/rohin/rohin/20216.m3u8
+http://qqtv.nl:8080/live/castro/castro/20347.m3u8
+EXTINF: -1,COMEDY CENTRAL
+http://qqtv.nl:8080/live/castro/castro/20167.m3u8
+EXTINF: -1,GALAVISIÓN
+http://qqtv.nl:8080/live/castro/castro/21872.m3u8
 EXTINF: -1,HBO SIGNATURE
-http://qqtv.nl:8080/live/rohin/rohin/20352.m3u8
+http://qqtv.nl:8080/live/castro/castro/20352.m3u8
+EXTINF: -1,HBO PLUS
+http://qqtv.nl:8080/live/castro/castro/20354.m3u8
+EXTINF: -1,HBO FAMILY
+http://qqtv.nl:8080/live/castro/castro/20355.m3u8
 EXTINF: -1,HBO 2
-http://qqtv.nl:8080/live/rohin/rohin/20358.m3u8
+http://qqtv.nl:8080/live/castro/castro/20358.m3u8
+EXTINF: -1,HBO
+http://qqtv.nl:8080/live/castro/castro/20083.m3u8
+EXTINF: -1,H2
+http://qqtv.nl:8080/live/castro/castro/20258.m3u8
+EXTINF: -1,FX
+http://qqtv.nl:8080/live/castro/castro/20264.m3u8
+EXTINF: -1,FOX SERIES
+http://qqtv.nl:8080/live/castro/castro/20276.m3u8
+EXTINF: -1,FOX MOVIES
+http://qqtv.nl:8080/live/castro/castro/20281.m3u8
+EXTINF: -1,FOX FAMILY
+http://qqtv.nl:8080/live/castro/castro/20259.m3u8
+EXTINF: -1,FOX CLASSIC
+http://qqtv.nl:8080/live/castro/castro/20271.m3u8
+EXTINF: -1,FOX CINEMA
+http://qqtv.nl:8080/live/castro/castro/20277.m3u8
+EXTINF: -1,DISCOVERY KIDS
+http://qqtv.nl:8080/live/castro/castro/20149.m3u8
+EXTINF: -1,DISCOVERY TURBO
+http://qqtv.nl:8080/live/castro/castro/20275.m3u8
+EXTINF: -1,DISCOVERY SCIENCE
+http://qqtv.nl:8080/live/castro/castro/20078.m3u8
+EXTINF: -1,DISCOVERY H&H
+http://qqtv.nl:8080/live/castro/castro/20280.m3u8
+EXTINF: -1,DISCOVERY CIVILIZATION
+http://qqtv.nl:8080/live/castro/castro/20278.m3u8
+EXTINF: -1,DISCOVERY CHANNEL
+http://qqtv.nl:8080/live/castro/castro/20226.m3u8
+EXTINF: -1,WARNER
+http://qqtv.nl:8080/live/castro/castro/20232.m3u8
+EXTINF: -1,VH1
+http://qqtv.nl:8080/live/castro/castro/20424.m3u8
+EXTINF: -1,VH1 CLASSIC
+http://qqtv.nl:8080/live/castro/castro/20155.m3u8
+EXTINF: -1,UNIVERSAL CHANNEL
+http://qqtv.nl:8080/live/castro/castro/20242.m3u8
+EXTINF: -1,TRUE TV
+http://qqtv.nl:8080/live/castro/castro/20239.m3u8
+EXTINF: -1,TBS
+http://qqtv.nl:8080/live/castro/castro/20001.m3u8
+EXTINF: -1,TNT SERIES
+http://qqtv.nl:8080/live/castro/castro/20245.m3u8
+EXTINF: -1,TNT
+http://qqtv.nl:8080/live/castro/castro/20237.m3u8
+EXTINF: -1,TLC
+http://qqtv.nl:8080/live/castro/castro/20244.m3u8
+EXTINF: -1,TCM
+http://qqtv.nl:8080/live/castro/castro/20252.m3u8
+EXTINF: -1,SYFY
+http://qqtv.nl:8080/live/castro/castro/20250.m3u8
+EXTINF: -1,SPACE
+http://qqtv.nl:8080/live/castro/castro/20240.m3u8
+EXTINF: -1,SONY
+http://qqtv.nl:8080/live/castro/castro/20248.m3u8
+EXTINF: -1,PARAMOUNT CHANNEL
+http://qqtv.nl:8080/live/castro/castro/20238.m3u8
+EXTINF: -1,CNN
+http://qqtv.nl:8080/live/castro/castro/20294.m3u8
+EXTINF: -1,NAT GEO WILD
+http://qqtv.nl:8080/live/castro/castro/20246.m3u8
+EXTINF: -1,NAT GEO KIDS
+http://qqtv.nl:8080/live/castro/castro/20152.m3u8
+EXTINF: -1,NAT GEO
+http://qqtv.nl:8080/live/castro/castro/20247.m3u8
 EXTINF: -1,HBO XTREME
-http://qqtv.nl:8080/live/rohin/rohin/20283.m3u8
-EXTINF: -1,SHOWTIME
-http://qqtv.nl:8080/live/rohin/rohin/20340.m3u8
+http://qqtv.nl:8080/live/castro/castro/20283.m3u8
+EXTINF: -1,HBO POP
+http://qqtv.nl:8080/live/castro/castro/20216.m3u8
+EXTINF: -1,ID
+http://qqtv.nl:8080/live/castro/castro/20243.m3u8
+EXTINF: -1,HISTORY CHANNEL
+http://qqtv.nl:8080/live/castro/castro/20236.m3u8
+EXTINF: -1,ESPN PLUS
+http://qqtv.nl:8080/live/castro/castro/20062.m3u8
+EXTINF: -1,ESPN 3
+http://qqtv.nl:8080/live/castro/castro/20267.m3u8
+EXTINF: -1,ESPN 2
+http://qqtv.nl:8080/live/castro/castro/20268.m3u8
+EXTINF: -1,ESPN
+http://qqtv.nl:8080/live/castro/castro/20269.m3u8
+EXTINF: -1,E! ENTRETAIMENT
+http://qqtv.nl:8080/live/castro/castro/20272.m3u8
+EXTINF: -1,NICKTOONS
+http://qqtv.nl:8080/live/castro/castro/20025.m3u8
+EXTINF: -1,NICK JR
+http://qqtv.nl:8080/live/castro/castro/20307.m3u8
+EXTINF: -1,NICK
+http://qqtv.nl:8080/live/castro/castro/20306.m3u8
+EXTINF: -1,NICK 2
+http://qqtv.nl:8080/live/castro/castro/20416.m3u8
+EXTINF: -1,DISNEY XD
+http://qqtv.nl:8080/live/castro/castro/20233.m3u8
+EXTINF: -1,DISNEY CHANNEL
+http://qqtv.nl:8080/live/castro/castro/20224.m3u8
+EXTINF: -1,DISNEY JR
+http://qqtv.nl:8080/live/castro/castro/20274.m3u8
+EXTINF: -1,TLC
+http://qqtv.nl:8080/live/castro/castro/20426.m3u8
+EXTINF: -1,STUDIO UNIVERSAL
+http://qqtv.nl:8080/live/castro/castro/20429.m3u8
+EXTINF: -1,MTV
+http://qqtv.nl:8080/live/castro/castro/20417.m3u8
+EXTINF: -1,LIFETIME
+http://qqtv.nl:8080/live/castro/castro/20403.m3u8
+EXTINF: -1,HTV
+http://qqtv.nl:8080/live/castro/castro/20435.m3u8
+EXTINF: -1,INDIEPLEX
+http://qqtv.nl:8080/live/castro/castro/20350.m3u8
+EXTINF: -1,OTHERMAX
+http://qqtv.nl:8080/live/castro/castro/20350.m3u8
 EXTINF: -1,SHOWTIME BEYOND
-http://qqtv.nl:8080/live/rohin/rohin/20344.m3u8
-EXTINF: -1,STARS
-http://qqtv.nl:8080/live/rohin/rohin/20324.m3u8
+http://qqtv.nl:8080/live/castro/castro/20344.m3u8
+EXTINF: -1,SHOWTIME
+http://qqtv.nl:8080/live/castro/castro/20340.m3u8
 EXTINF: -1,STARZ BLACK
-http://qqtv.nl:8080/live/rohin/rohin/20339.m3u8
+http://qqtv.nl:8080/live/castro/castro/20339.m3u8
 EXTINF: -1,STARZ CINEMA
-http://qqtv.nl:8080/live/rohin/rohin/20338.m3u8
+http://qqtv.nl:8080/live/castro/castro/20338.m3u8
 EXTINF: -1,STARZ COMEDY
-http://qqtv.nl:8080/live/rohin/rohin/20337.m3u8
+http://qqtv.nl:8080/live/castro/castro/20337.m3u8
 EXTINF: -1,STARZ EAST
-http://qqtv.nl:8080/live/rohin/rohin/20335.m3u8
+http://qqtv.nl:8080/live/castro/castro/20335.m3u8
 EXTINF: -1,STARZ EDGE
-http://qqtv.nl:8080/live/rohin/rohin/20334.m3u8
+http://qqtv.nl:8080/live/castro/castro/20334.m3u8
 EXTINF: -1,STTARZ ENCORE ACTION
-http://qqtv.nl:8080/live/rohin/rohin/20333.m3u8
+http://qqtv.nl:8080/live/castro/castro/20333.m3u8
 EXTINF: -1,STARZ ENCORE BLACK
-http://qqtv.nl:8080/live/rohin/rohin/20332.m3u8
+http://qqtv.nl:8080/live/castro/castro/20332.m3u8
 EXTINF: -1,STARZ ENCORE CLASSIC
-http://qqtv.nl:8080/live/rohin/rohin/20331.m3u8
+http://qqtv.nl:8080/live/castro/castro/20331.m3u8
 EXTINF: -1,STARZ ENCORE FAMILY
-http://qqtv.nl:8080/live/rohin/rohin/20330.m3u8
+http://qqtv.nl:8080/live/castro/castro/20330.m3u8
 EXTINF: -1,STARZ ENCORE
-http://qqtv.nl:8080/live/rohin/rohin/20329.m3u8
+http://qqtv.nl:8080/live/castro/castro/20329.m3u8
 EXTINF: -1,STARS ENCORE SUSPENSE
-http://qqtv.nl:8080/live/rohin/rohin/20327.m3u8
+http://qqtv.nl:8080/live/castro/castro/20327.m3u8
 EXTINF: -1,STARZ ENCORE WESTERN
-http://qqtv.nl:8080/live/rohin/rohin/20326.m3u8
+http://qqtv.nl:8080/live/castro/castro/20326.m3u8
 EXTINF: -1,STARZ FAMILY
-http://qqtv.nl:8080/live/rohin/rohin/20325.m3u8
+http://qqtv.nl:8080/live/castro/castro/20325.m3u8
+EXTINF: -1,STARS
+http://qqtv.nl:8080/live/castro/castro/20324.m3u8
 EXTINF: -1,STARZ KIDS
-http://qqtv.nl:8080/live/rohin/rohin/20323.m3u8
-EXTINF: -1,LA LIGA
-http://qqtv.nl:8080/live/rohin/rohin/88295.m3u8
+http://qqtv.nl:8080/live/castro/castro/20323.m3u8
+EXTINF: -1,TELEHIT
+http://qqtv.nl:8080/live/castro/castro/20090.m3u8
+EXTINF: -1,TELENOVELAS
+http://qqtv.nl:8080/live/castro/castro/20169.m3u8
+EXTINF: -1,GOLDEN EDGE
+http://qqtv.nl:8080/live/castro/castro/20165.m3u8
+EXTINF: -1,GOLDEN
+http://qqtv.nl:8080/live/castro/castro/20290.m3u8
+EXTINF: -1,MULTIMEDIOS
+http://qqtv.nl:8080/live/castro/castro/20432.m3u8
+EXTINF: -1,GOLDEN PLUS
+http://qqtv.nl:8080/live/castro/castro/20420.m3u8
+EXTINF: -1,DISTRITO COMEDIA
+http://qqtv.nl:8080/live/castro/castro/19997.m3u8
+EXTINF: -1,DE PELICULA
+http://qqtv.nl:8080/live/castro/castro/20273.m3u8
+EXTINF: -1,UNICABLE
+http://qqtv.nl:8080/live/castro/castro/20088.m3u8
+EXTINF: -1,BEIN Ñ
+http://qqtv.nl:8080/live/castro/castro/88419.m3u8
+EXTINF: -1,BEIN
+http://qqtv.nl:8080/live/castro/castro/88420.m3u8
+EXTINF: -1,ESPN DEPORTES
+http://qqtv.nl:8080/live/castro/castro/7913.m3u8
+EXTINF: -1,FOX SPORT
+http://qqtv.nl:8080/live/castro/castro/20095.m3u8
+EXTINF: -1,FOX SPORT 2
+http://qqtv.nl:8080/live/castro/castro/20097.m3u8
+EXTINF: -1,FOX SPORT 3
+http://qqtv.nl:8080/live/castro/castro/20096.m3u8
+EXTINF: -1,TUDN
+http://qqtv.nl:8080/live/castro/castro/20116.m3u8
+EXTINF: -1,TNT CENTRO
+http://qqtv.nl:8080/live/castro/castro/20040.m3u8
+EXTINF: -1,TNT ORIGINAL
+http://qqtv.nl:8080/live/castro/castro/20150.m3u8

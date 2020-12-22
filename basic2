@@ -1,6 +1,6 @@
 #EXTM3U
 ---TV ABIERTA---
-EXTINF: -1 tvg-id="" group-title="TV ABIERTA",AZTECA CINEMA
+EXTINF: -1 tvg-id="" tvg-name="AZTECA CINEMA" group-title="TV ABIERTA",AZTECA CINEMA
 http://qqtv.nl:8080/live/castro/castro/20026.m3u8
 EXTINF: -1,AZTECA CLIC
 http://qqtv.nl:8080/live/castro/castro/20404.m3u8
@@ -37,7 +37,7 @@ http://qqtv.nl:8080/live/castro/castro/20169.m3u8
 EXTINF: -1,UNICABLE
 http://qqtv.nl:8080/live/castro/castro/20088.m3u8
 ---KIDS---
-EXTINF: -1 tvg-id="" group-title="KIDS",BABY TV
+EXTINF: -1 tvg-id="" tvg-name="BABY TV" group-title="KIDS",BABY TV
 http://qqtv.nl:8080/live/castro/castro/20110.m3u8
 EXTINF: -1,BOOMERANG
 http://qqtv.nl:8080/live/castro/castro/20299.m3u8

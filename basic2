@@ -1,6 +1,6 @@
 #EXTM3U
 ---TV ABIERTA---
-EXTINF: -1,AZTECA CINEMA
+EXTINF: -1 tvg-id="" group-title="TV ABIERTA",AZTECA CINEMA
 http://qqtv.nl:8080/live/castro/castro/20026.m3u8
 EXTINF: -1,AZTECA CLIC
 http://qqtv.nl:8080/live/castro/castro/20404.m3u8

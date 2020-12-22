@@ -18,7 +18,7 @@ EXTINF: -1,CANAL JUDICIAL
 http://qqtv.nl:8080/live/castro/castro/20413.m3u8
 EXTINF: -1,CANAL ONCE
 http://qqtv.nl:8080/live/castro/castro/20054.m3u8
-#EXTINF:-1,Canal 5 HD
+#EXTINF:-1,CANAL 5
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6685
 EXTINF: -1,CANAL 26
 http://qqtv.nl:8080/live/castro/castro/20107.m3u8
@@ -62,7 +62,7 @@ http://qqtv.nl:8080/live/castro/castro/20306.m3u8
 EXTINF: -1,NICK 2
 http://qqtv.nl:8080/live/castro/castro/20416.m3u8
 ---ENTRETENIMIENTO---
-EXTINF: -1,COMEDY CENTRAL
+EXTINF: -1 tvg-id="" tvg-name="COMEDY CENTRAL" group-title="ENTETENIMIENTO",COMEDY CENTRAL
 http://qqtv.nl:8080/live/castro/castro/20167.m3u8
 EXTINF: -1,DISTRITO COMEDIA
 http://qqtv.nl:8080/live/castro/castro/19997.m3u8
@@ -79,7 +79,7 @@ http://qqtv.nl:8080/live/castro/castro/20424.m3u8
 EXTINF: -1,VH1 CLASSIC
 http://qqtv.nl:8080/live/castro/castro/20155.m3u8
 ---SERIES---
-EXTINF: -1,A&E
+EXTINF: -1 tvg-id="" tvg-name="A&E" group-title="SERIES",A&E
 http://qqtv.nl:8080/live/castro/castro/20302.m3u8
 EXTINF: -1,AXN
 http://qqtv.nl:8080/live/castro/castro/20298.m3u8
@@ -104,7 +104,7 @@ http://qqtv.nl:8080/live/castro/castro/20250.m3u8
 EXTINF: -1,WARNER
 http://qqtv.nl:8080/live/castro/castro/20232.m3u8
 ---DOCUMENTAL---
-EXTINF: -1,Animal Planet
+EXTINF: -1 tvg-id="" tvg-name="ANIMAL PLANET" group-title="DOCUMENTAL",ANIMAL PLANET
 http://qqtv.nl:8080/live/castro/castro/20296.m3u8
 EXTINF: -1,DISCOVERY CHANNEL
 http://qqtv.nl:8080/live/castro/castro/20226.m3u8
@@ -127,7 +127,7 @@ http://qqtv.nl:8080/live/castro/castro/20247.m3u8
 EXTINF: -1,NAT GEO WILD
 http://qqtv.nl:8080/live/castro/castro/20246.m3u8
 ---PELICULAS---
-EXTINF: -1,CINECANAL
+EXTINF: -1 tvg-id="" tvg-name="CINECANAL" group-title="PELICULAS",CINECANAL
 http://qqtv.nl:8080/live/castro/castro/20297.m3u8
 EXTINF: -1,CINE LATINO
 http://qqtv.nl:8080/live/castro/castro/20156.m3u8
@@ -162,7 +162,7 @@ http://qqtv.nl:8080/live/castro/castro/20150.m3u8
 EXTINF: -1,UNIVERSAL CHANNEL
 http://qqtv.nl:8080/live/castro/castro/20242.m3u8
 ---DEPORTES---
-EXTINF: -1,BEIN
+EXTINF: -1 tvg-id="" tvg-name="BEIN" group-title="DEPORTES",BEIN
 http://qqtv.nl:8080/live/castro/castro/88420.m3u8
 EXTINF: -1,BEIN Ñ
 http://qqtv.nl:8080/live/castro/castro/88419.m3u8
@@ -185,7 +185,7 @@ http://qqtv.nl:8080/live/castro/castro/20097.m3u8
 EXTINF: -1,FOX SPORTS 3
 http://qqtv.nl:8080/live/castro/castro/20096.m3u8
 ---ESPECIALES---
-#EXTINF:-1,Fox Action
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action" group-title="ESPECIALES",Fox Action
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6714
 #EXTINF:-1,Fox Cinema
 http://mytv.fun:8080/xvoek63avn/1bdn1scc4t/6715
